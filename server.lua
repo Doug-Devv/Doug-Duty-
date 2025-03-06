@@ -71,4 +71,4 @@ AddEventHandler('playerDropped', function()
     dutyStatus[source] = nil
 end)
 
-print("Freech Duty script loaded with ox_lib integration, department dropdown, ACE permissions, blips, and weapons")
+print("Doug Duty script loaded with ox_lib integration, department dropdown, ACE permissions, blips, and weapons")
