@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Your Name'
-description 'Freech Duty - Advanced Duty Management for FiveM'
+description 'Doug Duty'
 version '1.0.0'
 
 server_scripts {
